@@ -34,6 +34,13 @@ A aplicação foi construída com foco em:
 - [x] README completo com instruções
 
 ---
+## ✨ Melhorias futuras
+
+- Testes automatizados
+- Feedback visual e UX melhorada
+- Cards com mais detalhes dos produtos
+
+---
 
 ## ▶️ Como rodar o projeto localmente
 
