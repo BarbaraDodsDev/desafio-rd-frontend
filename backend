@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "RD Station Marketing",
+      "features": ["Automação", "Marketing", "Integração"]
+    },
+    {
+      "id": 2,
+      "name": "CRM",
+      "features": ["Vendas", "Pipeline", "Relatórios"]
+    },
+    {
+      "id": 3,
+      "name": "Conversational",
+      "features": ["Chat", "Integração", "Conversão"]
+    }
+  ]
+}
