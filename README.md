@@ -32,3 +32,13 @@ A aplicação foi construída com foco em:
 - [x] Validação para evitar falhas na escolha de preferências
 - [x] Estilização com Tailwind CSS
 - [x] README completo com instruções
+
+---
+
+## ▶️ Como rodar o projeto localmente
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/BarbaraDodsDev/desafio-rd-frontend.git
+cd desafio-rd-frontend
